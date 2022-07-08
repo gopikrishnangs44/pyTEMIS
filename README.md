@@ -9,13 +9,14 @@ www.atmoslabiitkgp.com
 www.github.com/gopikrishnangs44
 
 
-INSTALLATION:
+**INSTALLATION:**
 
-git clone 
 
-cd pyTEMIS
+  git clone https://github.com/gopikrishnangs44/pyTEMIS.git
 
-python setup.py install
+  cd pyTEMIS
+
+  python setup.py install
 
 
 USAGE:
