@@ -1,0 +1,8 @@
+README.md
+setup.py
+pyTEMIS/__init__.py
+pyTEMIS/pyTEMIS.py
+pyTEMIS.egg-info/PKG-INFO
+pyTEMIS.egg-info/SOURCES.txt
+pyTEMIS.egg-info/dependency_links.txt
+pyTEMIS.egg-info/top_level.txt
